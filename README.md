@@ -1,8 +1,6 @@
 
 # Weather-Dashboard   
 
-![badge](https://img.shields.io/badge/license--orange)<br />
-
 ## Description
 Weather Dashoboard is a app that allows you to get the current and upcoming weather conditions for any city, it also saves your past searches for quick access to a previoous city. For this task i used the openweather api to get the weather, jquery for a dynamic page.
 
